@@ -1,6 +1,6 @@
 /**
  * 
- * @author ugx
+ * @author Ugur Sargin
  * www.ugursargin.com
  * 
  */
